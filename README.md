@@ -1,2 +1,2 @@
-# beach-sweeper
-Beach Sweeper 3D Unity game
+# Beach Sweeper
+Included in this repository is my final Game Development project for my Senior year called Beach Sweeper. It is a 3D game created in Unity that requires players to collect different articles of trash laid out onto a beach scene. The game provides useful information about the cons of leaving certain types of trash and directs users to more websites to research upon completion of the game.
